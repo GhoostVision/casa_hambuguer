@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.foto{
+    background-image: url(../imagens/ChatGPT\ Image\ 6\ de\ out.\ de\ 2026\,\ 18_20_19.png);
+}
+.text{
+    
+    width: 400px;
+    margin-left: 100px;
+    margin-top: 170px;
+    color: #fff;
+}
+.p1{
+    color: #dd6109;
+    font-weight: 1000;
+}
+span{
+    color: #dd6109;
+}
+button{
+    width: 150px;
+    height: 40px;
+    margin-top: 20px;
+    border: none;
+    background-color: #dd6109;
+    border-radius: 20px;
+    color: #fff;
+    cursor: pointer;
+    box-shadow: 0 0 4px#dd6109;
+}
+.botao2{
+    margin-left: 20px;
+    background-color: transparent;
+    border: solid 1px #dd6109;
+    cursor: pointer;
+}
