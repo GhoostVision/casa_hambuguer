@@ -1,0 +1,50 @@
+nav {
+  height: 50px;
+  background: black;
+  display: flex;
+}
+nav .logo {
+  width: 33%;
+}
+nav .logo img {
+  width: 60%;
+  height: 100%;
+}
+nav .links {
+  width: 33%;
+}
+nav .links ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  height: 100%;
+  list-style: none;
+  margin: 0;
+}
+nav .links ul li a {
+  text-decoration: none;
+  color: white;
+}
+nav .links ul li a:hover {
+  color: orange;
+}
+nav .navegacao {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 34%;
+}
+nav .navegacao button {
+  background: orange;
+  padding: 10px;
+  border: none;
+  border-radius: 15px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/*# sourceMappingURL=style.css.map */
